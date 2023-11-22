@@ -5,8 +5,6 @@ This document outlines the development and deployment workflow for the Suite Con
 
 ## Project Overview
 
-[Provide a brief overview of the project, its purpose, and key technologies used.]
-
 The Suite Consultants WordPress Website Development project, undertaken by Group 1, is a collaborative initiative to create a tailored WordPress website for Suite Consultants, a Netsuite consulting firm specializing in comprehensive solutions. Suite Consultants' core focus areas include sales, services, and support. The project's primary objective is to develop a modern and user-friendly online presence that aligns with Suite Consultants' business goals.
 
 ## Development Workflow
@@ -15,10 +13,6 @@ The Suite Consultants WordPress Website Development project, undertaken by Group
 
 Clone the project repository to your local machine.
 
-```bash
-git clone [repository_url]
-cd [project_directory]
-```
  -For feature development or editing/updating existing features, create a new branch in the repository, appropriately named for version control. Log new developments, edits, and updates on the Trello board as well as Slack. The Trello board serves as an effective project management tool and maintains a historical record of the project.
 
 - Customize the theme in the relevant Integrated Development Environment (IDE), making version control commits. Push the completed work to the repository and create relevant pull requests to the main branch. Ensure that pull requests are tested before merging into the main branch.
@@ -28,38 +22,26 @@ cd [project_directory]
 
 Make necessary changes to the codebase. Commit regularly with clear and concise messages.
 
-```bash
-git add .
-git commit -m "Describe the changes made"
-```
  Once the main branch is merged and updated with changes, pull the repository to the local environment. Upload it as a zip file to the staging site through appearance/theme/add new and activate it to test on the staging website. After successful testing, upload the theme zip folder to the production site.
 
-### 4. Push Changes
+### 3. Push Changes
 
 Push your branch to the remote repository.
 
-```bash
-git push origin feature/your-feature-name
-```
-
-### 5. Pull Request
+### 4. Pull Request
 
 Create a pull request on the GitHub repository. Assign reviewers and ensure that the changes pass code review.
-
-### 6. Project Management
-
-Use a project management tool, in this case, we were mainly using Trello to track tasks and updates. Create cards for each task and link them to the corresponding branches or pull requests.
 
 
 ## Testing Workflow
 
-### 7. Local Testing
+### 5. Local Testing
 
 Before merging to the main branch, we tested the changes locally to ensure functionality.
 
 ## Deployment Workflow
 
-### 11. Live Deployment: Website Hosting
+### 6. Live Deployment: Website Hosting
 
 when staging testing was successful, we deployed the changes to the live production environment. We used Pntheon as our hosting platform. Of all the other hosts we had considered it ended up being the winnig site because:
 1. **Performance and Scaling:**
@@ -85,11 +67,11 @@ when staging testing was successful, we deployed the changes to the live product
 
 It also provided us with a free hosted site that would be available the time we needed our website to be deployed.
 
-## Version Control
+## 7. Version Control
 The utilization of GitHub's version control enables us to monitor, manage, and compare both old and new versions of the code committed by each team member to the repository. However, in this assignment, we have not employed GitHub version control until today. Instead, we incrementally updated the website and modified documentation files on GitHub as required. On the final day of submission, our plan is to convene and review any necessary changes to our existing work. We have allocated a single day to compile all our learning journal entries to submit the comprehensive file. 
 
 
-### 12. Project Management
+### 8. Project Management
 to facilitate effective communication, we used three platforms as well as a Github reprisotory to share all necessary documentation and more. To do so, we used:
 1. WhatsApp- it proved to be an effective communication platform for group our collaboration due to its real-time messaging, widespread accessibility on mobile devices, and support for multimedia sharing. The group chat functionality facilitates discussions, while notifications and read receipts ensure prompt updates and acknowledgment. Additional options like voice and video calls offer versatility in communication methods which proved its effectiveness
 
