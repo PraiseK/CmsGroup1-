@@ -41,6 +41,7 @@ This documentation is designed for individuals familiar with WordPress who will 
 | Plugin | Description |
 |---|---|
 | WPForms | WPForms is an intuitive and feature-rich form builder plugin for WordPress. It allows users to create various forms easily, from simple contact forms to complex surveys. With its drag-and-drop interface, customization is seamless, making it suitable for both beginners and advanced users. WPForms ensures efficient form submission handling and provides robust options for managing and analyzing form entries. |
+| News & Blog Designer Pack |  News & Blog Designer Pack is a versatile plugin designed to elevate the visual appeal of news and blog pages on a WordPress site. It offers a range of layout customization options, allowing users to create unique and engaging designs without the need for extensive coding. With features like post grid layouts, sliders, and customizable design elements, News & Blog Designer Pack empowers users to enhance the overall aesthetics of their news and blog content.|
 
 ### How It Works
 
@@ -50,4 +51,11 @@ This documentation is designed for individuals familiar with WordPress who will 
 |---|---|
 | Form Creation | 1. Navigate to the "WPForms" section in the WordPress dashboard. <br> 2. Choose or create a form. <br> 3. Customize form fields and settings. <br> 4. Add the form to pages using shortcode or WPForms block. |
 |Submission Handling | 1. Receive form submissions directly in the WordPress dashboard. <br> 2. Set up email notifications for instant alerts. <br> 3. Optionally, integrate with third-party services for advanced handling. |
+
+#### 1. Blog Designer Pack
+
+| Feature | How It Works |
+|---|---|
+| Layout Customization | 1. Access the "News & Blog Designer Pack" settings in the WordPress dashboard. <br> 2. Utilize the provided options to customize the layout, post structure, and styling. <br> 3. Preview changes in real-time and save for a visually enhanced news and blog design. |
+| Design Elements | 1. Implement design elements such as post grids, sliders, or list views. <br> 2. Adjust font styles, colors, and spacing for a cohesive design. <br> 3. Apply changes site-wide or customize for individual posts. |
 
