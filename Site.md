@@ -35,3 +35,19 @@ This documentation is designed for individuals familiar with WordPress who will 
   4. Assign categories to posts for structured organization.
 
 ## Plugin Integration
+
+### Description
+
+| Plugin | Description |
+|---|---|
+| WPForms | WPForms is an intuitive and feature-rich form builder plugin for WordPress. It allows users to create various forms easily, from simple contact forms to complex surveys. With its drag-and-drop interface, customization is seamless, making it suitable for both beginners and advanced users. WPForms ensures efficient form submission handling and provides robust options for managing and analyzing form entries. |
+
+### How It Works
+
+#### 1. WPForms
+
+| Feature | How It Works |
+|---|---|
+| Form Creation | 1. Navigate to the "WPForms" section in the WordPress dashboard. <br> 2. Choose or create a form. <br> 3. Customize form fields and settings. <br> 4. Add the form to pages using shortcode or WPForms block. |
+|Submission Handling | 1. Receive form submissions directly in the WordPress dashboard. <br> 2. Set up email notifications for instant alerts. <br> 3. Optionally, integrate with third-party services for advanced handling. |
+
