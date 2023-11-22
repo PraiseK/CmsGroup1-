@@ -79,7 +79,7 @@ to facilitate effective communication, we used three platforms as well as a Gith
 
 3. [Slack](https://app.slack.com/client/T06434CVC03/C063WHYJ2CW) - Although this was our least ued communication platform, it offered an intuitive chat interface which facilitates quick messaging and file sharing, promoting seamless communication among team members. The channel structure allows for organized discussions, while features like threads and mentions enhance clarity and engagement
 
-4. [Github Repository](https://github.com/PraiseK/CmsGroup1-/edit/main)
+4. [Github Repository](https://github.com/PraiseK/CmsGroup1-/tree/main)
 GitHub repository served as a crucial platform for effective collaboration in the website development project. Its version control system allowed for meticulous tracking, management, and comparison of code changes made by individual team members. GitHub's branching and merging capabilities facilitated parallel development efforts, ensuring a streamlined workflow. The platform's issue tracking, pull request, and code review features contribute to a robust and collaborative development process. 
 
 
