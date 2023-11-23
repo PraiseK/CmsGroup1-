@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This documentation is designed for individuals familiar with WordPress who will be responsible for managing and updating the content on the website for Suite Consultant, a Netsuite consulting firm. The following guidelines explain how to add new content, whether it's a page or a post, and provide insights into the organization of the site.
+This documentation is designed for individuals familiar with WordPress who will be responsible for managing and updating the content on the website for Suite Consultanting, a Netsuite consulting firm. The following guidelines explain how to add new content, whether it's a page or a post, and provide insights into the organization of the site.
 
 ## Content Management Overview
 
