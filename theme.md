@@ -9,7 +9,7 @@ The Suite Consultants WordPress theme is designed to meet the specific requireme
 ### 1. Modern and User-Friendly Design
 
 - Visually appealing design to represent Suite Consultants' brand.
-COLOURS: We maintained a simple colour scheme that is of Black and White spectrum ans a hint of orange to match the Netsuite site as well as Annexa site which was requisted by the client during our client meeting
+**COLOURS:** We maintained a simple colour scheme that is of Black and White spectrum ans a hint of orange to match the Netsuite site as well as Annexa site which was requisted by the client during our client meeting
 
 - User-friendly interface for an optimal user experience.
 
@@ -29,10 +29,14 @@ COLOURS: We maintained a simple colour scheme that is of Black and White spectru
 ### 5. Integration of Key Features
 
 - Implements essential features such as contact forms, service request forms, and other functionalities to enhance user engagement i.e. :
-- Custom Header and Footer: Designed with a unique navigation menu and a prominent "Book a Demo" call-to-action button.
-- Home Page Layout: Visually appealing layout with researched data and engaging visuals.
-- Form Integration: Utilized WPForms for creating two types of forms - one for normal contact and another for enterprise-level inquiries. 
-- Blog Design: Integrated Blog Designer Pack to create custom blog pages with diverse layouts.
+  
+- **Custom Header and Footer:** Designed with a unique navigation menu and a prominent "Book a Demo" call-to-action button. Prominent "Book a Demo" CTA Button - Integrate a visually appealing and strategically placed "Book a Demo" call-to-action (CTA) button in the header for seamless access, encouraging users to engage with the demo request process.
+  
+- **Home Page Layout:** Visually appealing layout with researched data and engaging visuals.
+  
+- **Form Integration:** Utilized WPForms for creating two types of forms - one for normal contact and another for enterprise-level inquiries.
+  
+- **Blog Design:** Integrated Blog Designer Pack to create custom blog pages with diverse layouts.
 
 ### 6. SEO Optimization
 
