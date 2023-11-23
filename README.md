@@ -16,17 +16,17 @@ This repository contains the custom WordPress theme developed by Group 1 for Sui
 ### Development
 Development documentation outlines the process, setup, and workflows involved in the theme development. It provides detailed instructions on setting up the development workspace and workflows.
 
-[Development Documentation]
+[Development Documentation](deployment.md)
 
 ### Theme
 Theme documentation provides insights into the features of the custom WordPress theme, including design decisions, file structure, and customization options. This is a valuable resource for future developers to understand and extend the theme.
 
-[Theme Documentation]
+[Theme Documentation](theme.md)
 
 ### Site
 Site documentation focuses on the management of the live WordPress site for Suite Conulting. It explains how to add new content, update pages, and details the plugins used, including WPForms, Blog Designer Pack, and WP Vivid Backup Plugin.
 
-[Site Documentation]
+[Site Documentation](Site.md)
 
 ## Project Overview
 
