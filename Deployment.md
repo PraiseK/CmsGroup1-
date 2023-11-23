@@ -1,6 +1,6 @@
 # Deployment Documentation
 
-This document outlines the deployment workflow for the WordPress website developed for Suite Consultants by Group 1. The deployment process involves setting up the development environment and deployment workflow, version control, testing, and the migration of the website from a local server to an online server. Follow these steps to successfully develop theme updates locally, test them, and deploy to staging and live sites.
+This document outlines the deployment workflow for the WordPress website developed for Suite Consultanting by Group 1. The deployment process involves setting up the development environment and deployment workflow, version control, testing, and the migration of the website from a local server to an online server. Follow these steps to successfully develop theme updates locally, test them, and deploy to staging and live sites.
 
 ## Development Environment
 
