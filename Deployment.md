@@ -3,10 +3,6 @@
 
 This document outlines the development and deployment workflow for the Suite Contultants website. Follow these steps to successfully develop theme updates locally, test them, and deploy to staging and live sites.
 
-## Project Overview
-
-The Suite Consultants WordPress Website Development project, undertaken by Group 1, is a collaborative initiative to create a tailored WordPress website for Suite Consultants, a Netsuite consulting firm specializing in comprehensive solutions. Suite Consultants' core focus areas include sales, services, and support. The project's primary objective is to develop a modern and user-friendly online presence that aligns with Suite Consultants' business goals.
-
 ## Development Workflow
 
 ### 1. Clone the Repository
@@ -26,7 +22,8 @@ Make necessary changes to the codebase. Commit regularly with clear and concise 
 
 ### 3. Push Changes
 
-Push your branch to the remote repository.
+Push your branch to the remote repository. 
+
 
 ### 4. Pull Request
 
@@ -43,7 +40,7 @@ Before merging to the main branch, we tested the changes locally to ensure funct
 
 ### 6. Live Deployment: Website Hosting
 
-when staging testing was successful, we deployed the changes to the live production environment. We used Pntheon as our hosting platform. Of all the other hosts we had considered it ended up being the winnig site because:
+when staging testing was successful, we deployed the changes to the live production environment. We used Pantheon as our hosting platform. Of all the other hosts we had considered it ended up being the winnig site because:
 1. **Performance and Scaling:**
    - Pantheon ensures high performance and automatic scaling for handling varying levels of website traffic.
 
@@ -73,13 +70,11 @@ The utilization of GitHub's version control enables us to monitor, manage, and c
 
 ### 8. Project Management
 to facilitate effective communication, we used three platforms as well as a Github reprisotory to share all necessary documentation and more. To do so, we used:
-1. WhatsApp- it proved to be an effective communication platform for group our collaboration due to its real-time messaging, widespread accessibility on mobile devices, and support for multimedia sharing. The group chat functionality facilitates discussions, while notifications and read receipts ensure prompt updates and acknowledgment. Additional options like voice and video calls offer versatility in communication methods which proved its effectiveness
+1. [Trello](https://trello.com/b/4zz6bndF/cp3402-2023-group1) - The card-based system allowed for easy task tracking, assigning responsibilities, and progress monitoring. The intuitive drag-and-drop interface enhanced usability, making it accessible for all team members. Trello's real-time updates and notifications keep everyone informed about changes and developments within the project. The platform's flexibility accommodated various project structures, while its integration with other tools and platforms streamlines workflow. 
 
-2. [Trello](https://trello.com/b/4zz6bndF/cp3402-2023-group1) - The card-based system allowed for easy task tracking, assigning responsibilities, and progress monitoring. The intuitive drag-and-drop interface enhanced usability, making it accessible for all team members. Trello's real-time updates and notifications keep everyone informed about changes and developments within the project. The platform's flexibility accommodated various project structures, while its integration with other tools and platforms streamlines workflow. 
+2. [Slack](https://app.slack.com/client/T06434CVC03/C063WHYJ2CW) - Although this was our least ued communication platform, it offered an intuitive chat interface which facilitates quick messaging and file sharing, promoting seamless communication among team members. The channel structure allows for organized discussions, while features like threads and mentions enhance clarity and engagement
 
-3. [Slack](https://app.slack.com/client/T06434CVC03/C063WHYJ2CW) - Although this was our least ued communication platform, it offered an intuitive chat interface which facilitates quick messaging and file sharing, promoting seamless communication among team members. The channel structure allows for organized discussions, while features like threads and mentions enhance clarity and engagement
-
-4. [Github Repository](https://github.com/PraiseK/CmsGroup1-/tree/main)
+3. [Github Repository](https://github.com/PraiseK/CmsGroup1-/tree/main)
 GitHub repository served as a crucial platform for effective collaboration in the website development project. Its version control system allowed for meticulous tracking, management, and comparison of code changes made by individual team members. GitHub's branching and merging capabilities facilitated parallel development efforts, ensuring a streamlined workflow. The platform's issue tracking, pull request, and code review features contribute to a robust and collaborative development process. 
 
 
